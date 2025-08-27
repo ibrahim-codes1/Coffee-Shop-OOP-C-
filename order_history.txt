@@ -1,0 +1,9 @@
+Order ID: 1
+Item                Unit Price     Quantity       Subtotal
+Americano           $2             2              $4
+Cappuccino          $3.5           3              $10.5
+Espresso            $2.5           8              $20
+Latte               $4             2              $8
+Mocha               $3.75          2              $7.5
+Total Amount: $50.00
+--------------------------
